@@ -24,3 +24,5 @@ Linki:
 [Tekst linku](https://wp.pl)
 
 Obrazy:  
+![zdjęcie]python).png)
+
