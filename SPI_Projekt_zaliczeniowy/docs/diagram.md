@@ -1,5 +1,5 @@
 ```mermaid
-graph TD
+flowchart LR
     A[# Projekt: Aplikacja do planowania nauki]
     
     B[Start]
